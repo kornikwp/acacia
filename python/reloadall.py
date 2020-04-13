@@ -1,4 +1,10 @@
 # reloadall.py
+# %python
+# import reloadall from reload_all
+# import os, tkinter
+# reload_all(os)
+# reload_all(tkinter)
+
 import types
 from imp import reload
 
